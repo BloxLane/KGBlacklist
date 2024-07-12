@@ -1,0 +1,7 @@
+In a GROUP insert the following in the table:
+{
+    "GroupName":"name",
+    "GroupId":"id",
+    "Minimum":"roleid",
+    "RoleName": "rolename"
+},
