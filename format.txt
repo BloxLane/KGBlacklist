@@ -1,7 +1,12 @@
 In a GROUP insert the following in the table:
-{
+,{
     "GroupName":"name",
     "GroupId":"id",
     "Minimum":"roleid",
     "RoleName": "rolename"
-},
+}
+
+For a USER insert the following:
+,{
+    "UserId":2282550827
+}
