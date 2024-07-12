@@ -1,8 +1,8 @@
-{
+[
   {
     "GroupName":"Devs Stuff",
     "GroupId":"16963292",
     "Minimum":"19",
     "RoleName": "Pre-Release Team"
   }
-}
+]
